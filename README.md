@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @EricTGoto
+- 👋 Hi, I’m Eric
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning Javascript, React, Node.js, MongoDB.
